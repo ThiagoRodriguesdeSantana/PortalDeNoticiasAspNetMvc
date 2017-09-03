@@ -18,6 +18,11 @@
         <div class="panel-footer">
             @Html.ActionLink("Ler Mais", "Detalhes", new { id = @item.Id }, new { @class = "btn btn-default" })
         </div>
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar Para Pagina Principal", "Index")
+        </div>
     </div>
 
 }
