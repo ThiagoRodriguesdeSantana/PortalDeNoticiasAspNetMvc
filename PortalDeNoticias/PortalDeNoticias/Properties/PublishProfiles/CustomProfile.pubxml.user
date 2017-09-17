@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\aspnet_client\Noticias</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/PortalDeNoticias.dll">
+      <publishTime>09/17/2017 17:23:58</publishTime>
+    </File>
+    <File Include="bin/PortalDeNoticias.pdb">
+      <publishTime>09/17/2017 17:23:58</publishTime>
+    </File>
+    <File Include="bin/pt-br/System.Web.Helpers.resources.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/pt-br/System.Web.Mvc.resources.dll">
+      <publishTime>09/03/2017 11:15:08</publishTime>
+    </File>
+    <File Include="bin/pt-br/System.Web.Razor.resources.dll">
+      <publishTime>09/03/2017 11:15:08</publishTime>
+    </File>
+    <File Include="bin/pt-br/System.Web.Webpages.Deployment.resources.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/pt-br/System.Web.Webpages.Razor.resources.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/pt-br/System.Web.Webpages.resources.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/Raven.Abstractions.dll">
+      <publishTime>07/21/2017 11:56:20</publishTime>
+    </File>
+    <File Include="bin/Raven.Abstractions.pdb">
+      <publishTime>07/21/2017 11:56:20</publishTime>
+    </File>
+    <File Include="bin/Raven.Client.Lightweight.dll">
+      <publishTime>07/21/2017 11:56:20</publishTime>
+    </File>
+    <File Include="bin/Raven.Client.Lightweight.pdb">
+      <publishTime>07/21/2017 11:56:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>09/03/2017 11:15:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/03/2017 11:15:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/03/2017 11:15:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>09/03/2017 11:15:09</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>09/03/2017 11:15:05</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>09/03/2017 11:15:05</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/03/2017 11:15:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/03/2017 11:15:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/03/2017 11:15:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/03/2017 11:15:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/03/2017 11:15:08</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/03/2017 11:15:05</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/17/2017 16:31:46</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>09/03/2017 11:15:06</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>09/03/2017 11:15:06</publishTime>
+    </File>
+    <File Include="Scripts/cldr.js">
+      <publishTime>09/17/2017 16:31:45</publishTime>
+    </File>
+    <File Include="Scripts/cldr/event.js">
+      <publishTime>09/17/2017 16:31:45</publishTime>
+    </File>
+    <File Include="Scripts/cldr/supplemental.js">
+      <publishTime>09/17/2017 16:31:45</publishTime>
+    </File>
+    <File Include="Scripts/cldr/unresolved.js">
+      <publishTime>09/17/2017 16:31:45</publishTime>
+    </File>
+    <File Include="Scripts/globalize.js">
+      <publishTime>09/17/2017 16:31:46</publishTime>
+    </File>
+    <File Include="Scripts/globalize/currency.js">
+      <publishTime>09/17/2017 16:31:46</publishTime>
+    </File>
+    <File Include="Scripts/globalize/date.js">
+      <publishTime>09/17/2017 16:31:46</publishTime>
+    </File>
+    <File Include="Scripts/globalize/message.js">
+      <publishTime>09/17/2017 16:31:46</publishTime>
+    </File>
+    <File Include="Scripts/globalize/number.js">
+      <publishTime>09/17/2017 16:31:46</publishTime>
+    </File>
+    <File Include="Scripts/globalize/plural.js">
+      <publishTime>09/17/2017 16:31:46</publishTime>
+    </File>
+    <File Include="Scripts/globalize/relative-time.js">
+      <publishTime>09/17/2017 16:31:46</publishTime>
+    </File>
+    <File Include="Scripts/globalize/unit.js">
+      <publishTime>09/17/2017 16:31:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>09/03/2017 11:15:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>09/03/2017 11:15:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>09/03/2017 11:15:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.globalize.js">
+      <publishTime>09/17/2017 16:31:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.globalize.min.js">
+      <publishTime>09/17/2017 16:31:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>09/17/2017 16:31:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>09/17/2017 16:31:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>09/03/2017 11:15:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>09/03/2017 11:15:06</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>09/03/2017 11:15:06</publishTime>
+    </File>
+    <File Include="Views/Noticias/Buscar.cshtml">
+      <publishTime>09/03/2017 17:25:47</publishTime>
+    </File>
+    <File Include="Views/Noticias/Deletar.cshtml">
+      <publishTime>09/03/2017 17:24:39</publishTime>
+    </File>
+    <File Include="Views/Noticias/Detalhes.cshtml">
+      <publishTime>09/03/2017 17:27:35</publishTime>
+    </File>
+    <File Include="Views/Noticias/Editar.cshtml">
+      <publishTime>09/03/2017 17:24:18</publishTime>
+    </File>
+    <File Include="Views/Noticias/Index.cshtml">
+      <publishTime>09/03/2017 17:00:20</publishTime>
+    </File>
+    <File Include="Views/Noticias/Novo.cshtml">
+      <publishTime>09/03/2017 17:25:24</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>09/03/2017 11:15:06</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>09/03/2017 11:15:06</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>09/03/2017 11:15:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/17/2017 17:23:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

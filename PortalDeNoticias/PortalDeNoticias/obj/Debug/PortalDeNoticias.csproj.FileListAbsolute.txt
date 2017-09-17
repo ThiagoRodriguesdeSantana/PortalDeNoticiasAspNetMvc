@@ -160,7 +160,6 @@ C:\Users\thiag\Documents\Visual Studio 2017\Projects\PortalDeNoticiasAspNetMvc\P
 C:\Users\thiag\Documents\Visual Studio 2017\Projects\PortalDeNoticiasAspNetMvc\PortalDeNoticias\PortalDeNoticias\bin\pt-br\System.Web.Webpages.Razor.resources.dll
 C:\Users\thiag\Documents\Visual Studio 2017\Projects\PortalDeNoticiasAspNetMvc\PortalDeNoticias\PortalDeNoticias\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Users\thiag\Documents\Visual Studio 2017\Projects\PortalDeNoticiasAspNetMvc\PortalDeNoticias\PortalDeNoticias\bin\pt-br\System.Web.Mvc.resources.dll
-C:\Users\thiag\Documents\Visual Studio 2017\Projects\PortalDeNoticiasAspNetMvc\PortalDeNoticias\PortalDeNoticias\obj\Debug\PortalDeNoticias.csprojResolveAssemblyReference.cache
 C:\Users\thiag\Documents\Visual Studio 2017\Projects\PortalDeNoticiasAspNetMvc\PortalDeNoticias\PortalDeNoticias\obj\Debug\PortalDeNoticias.csproj.CoreCompileInputs.cache
 C:\Users\thiag\Documents\Visual Studio 2017\Projects\PortalDeNoticiasAspNetMvc\PortalDeNoticias\PortalDeNoticias\obj\Debug\PortalDeNoticias.dll
 C:\Users\thiag\Documents\Visual Studio 2017\Projects\PortalDeNoticiasAspNetMvc\PortalDeNoticias\PortalDeNoticias\obj\Debug\PortalDeNoticias.pdb
